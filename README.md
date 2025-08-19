@@ -1,6 +1,5 @@
 # little_lemon
-Cousera final Backend Capstone Project
-![Image preview](https://github.com/Davysongs/little_lemon/assets/96971058/85a07f5f-b32d-4abf-8017-34b75ffcd799)
+
 **PREVIEW**
 
 # Little Lemon Restaurant Website
@@ -24,7 +23,7 @@ To set up the Little Lemon website locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/davysongs/little_lemon.git
+   git clone https://github.com/Ms-Lina/littlelemon.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -84,10 +83,5 @@ auth/
 
 
 
-## Acknowledgments
-
-- Special thanks to the Django and Bootstrap communities for their excellent documentation and support.
-
-Enjoy exploring the Little Lemon restaurant website! 🍋
 ```
 
