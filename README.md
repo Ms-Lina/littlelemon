@@ -1,7 +1,3 @@
-# little_lemon
-
-**PREVIEW**
-
 # Little Lemon Restaurant Website
 
 Welcome to the Little Lemon restaurant website, a delightful place to showcase our menu, attract customers, and manage orders seamlessly.
