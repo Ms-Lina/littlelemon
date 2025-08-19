@@ -78,6 +78,3 @@ auth/
 - **SQLite:** Lightweight and easy-to-set-up database for development.
 
 
-
-```
-
