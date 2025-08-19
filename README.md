@@ -6,7 +6,7 @@ Welcome to the Little Lemon restaurant website, a delightful place to showcase o
 
 Little Lemon is a Django-based web application designed to provide an online presence for our restaurant. Whether you're a customer exploring our menu or an administrator managing orders, this website offers a user-friendly experience.
 
-## Features
+## Feature
 
 - **Menu Display:** Showcase your restaurant's menu with details about each dish.
 - **Order Management:** Efficiently manage incoming orders and keep track of order status.
